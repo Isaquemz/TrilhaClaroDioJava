@@ -1,7 +1,6 @@
 package edu.isaque.practicingjava;
 
 import java.util.List;
-import java.util.function.Predicate;
 
 public class Desafio16 {
 
